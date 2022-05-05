@@ -10,3 +10,4 @@ Solved algorithms:
 7. GenerateDocument
 8. NodeDepths
 9. PalindromeCheck
+10. FindClosestValueInBST
