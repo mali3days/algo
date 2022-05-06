@@ -72,4 +72,28 @@ function findClosestValueInBst(tree, target, closest = Infinity) {
 	}
 }
 
+// Average O(log(n)) time | O(1) space
+// Worst O(n) time | O(1) space
+function findClosestValueInBst2(tree, target) {
+	let closest = Infinity;
+	let currentTree = tree;
+	
+	while(currentTree) {
+		if (Math.abs(currentTree.value - target) < Math.abs(closest - target)) {
+			closest = currentTree.value;
+		}
+		
+		if (target < currentTree.value) {
+			currentTree = currentTree.left;
+		} else if (target > currentTree.value) {
+			currentTree = currentTree.right;
+		} else {
+			break;
+		}
+	}
+	
+	return closest;
+}
+
 findClosestValueInBst(tree); // => 13
+findClosestValueInBst2(tree) // => 13
