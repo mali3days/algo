@@ -8,6 +8,7 @@
  */
 
 // Solution 1
+// O(nlogn) time | O(1) space
 function sortN(a, b) {
   if (a > b) return 1;
   if (a < b) return -1;
