@@ -11,3 +11,4 @@ Solved algorithms:
 8. NodeDepths
 9. PalindromeCheck
 10. FindClosestValueInBST
+11. BubbleSort
