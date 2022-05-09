@@ -12,3 +12,4 @@ Solved algorithms:
 9. PalindromeCheck
 10. FindClosestValueInBST
 11. BubbleSort
+12. InsertionSort
