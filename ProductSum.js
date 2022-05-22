@@ -11,13 +11,11 @@
 function productSum(array, depth = 1) {
   return array.reduce((sum, n) => {
     if (Array.isArray(n)) {
-      depth += 1;
-      sum = sum + depth * productSum(n, depth);
-      depth -= 1;
+      sum = sum + depth * productSum(n, depth + 1);
       return sum;
     }
 
-    sum += n;
+    sum += depth * n;
 
     return sum;
   }, 0);
