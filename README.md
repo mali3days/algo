@@ -13,3 +13,8 @@ Solved algorithms:
 10. FindClosestValueInBST
 11. BubbleSort
 12. InsertionSort
+13. RemoveDuplicatesFromLinkedList
+14. RunLengthEncoding
+15. ProductSum
+16. TandemBicycle
+17. SelectionSort
