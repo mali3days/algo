@@ -18,3 +18,4 @@ Solved algorithms:
 15. ProductSum
 16. TandemBicycle
 17. SelectionSort
+18. RomanToInteger (https://leetcode.com/problems/roman-to-integer/)
