@@ -20,3 +20,4 @@ Solved algorithms:
 17. SelectionSort
 18. RomanToInteger (https://leetcode.com/problems/roman-to-integer/)
 19. LongestCommonPrefix (https://leetcode.com/problems/longest-common-prefix/)
+20. ValidParentheses (https://leetcode.com/problems/valid-parentheses/)
