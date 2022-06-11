@@ -21,4 +21,5 @@ Solved algorithms:
 18. RomanToInteger (https://leetcode.com/problems/roman-to-integer/)
 19. LongestCommonPrefix (https://leetcode.com/problems/longest-common-prefix/)
 20. ValidParentheses (https://leetcode.com/problems/valid-parentheses/)
-21. BST Traversal
+21. BSTTraversal
+22. MinHeightBST
