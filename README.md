@@ -24,3 +24,4 @@ Solved algorithms:
 21. BSTTraversal
 22. MinHeightBST
 23. FindKthLargestValueInBST
+24. ReconstructBST
