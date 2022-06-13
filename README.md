@@ -26,3 +26,4 @@ Solved algorithms:
 23. FindKthLargestValueInBST
 24. ReconstructBST
 25. InvertBinaryTree
+26. MaxSubsetSumNoAdjacent
