@@ -25,3 +25,4 @@ Solved algorithms:
 22. MinHeightBST
 23. FindKthLargestValueInBST
 24. ReconstructBST
+25. InvertBinaryTree
