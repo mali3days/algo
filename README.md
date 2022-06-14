@@ -27,3 +27,4 @@ Solved algorithms:
 24. ReconstructBST
 25. InvertBinaryTree
 26. MaxSubsetSumNoAdjacent
+27. WordBreak (https://leetcode.com/problems/word-break/)
