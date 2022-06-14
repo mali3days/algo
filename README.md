@@ -28,3 +28,4 @@ Solved algorithms:
 25. InvertBinaryTree
 26. MaxSubsetSumNoAdjacent
 27. WordBreak (https://leetcode.com/problems/word-break/)
+28. HeightBalancedBinaryTree
