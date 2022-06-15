@@ -28,4 +28,4 @@ function binarySearch(array, target) {
   return -1;
 }
 
-binarySearch([0, 1, 21, 33, 45, 45, 61, 71, 72, 73]); // 3
+binarySearch([0, 1, 21, 33, 45, 45, 61, 71, 72, 73], 33); // 3
