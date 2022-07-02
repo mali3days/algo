@@ -30,3 +30,4 @@ Solved algorithms:
 27. WordBreak (https://leetcode.com/problems/word-break/)
 28. HeightBalancedBinaryTree
 29. RotateImage (https://leetcode.com/problems/rotate-image/) 48
+30. ReverseString
