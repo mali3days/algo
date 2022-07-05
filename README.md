@@ -31,3 +31,4 @@ Solved algorithms:
 28. HeightBalancedBinaryTree
 29. RotateImage (https://leetcode.com/problems/rotate-image/) 48
 30. ReverseString
+31. MergeSortedArrays
