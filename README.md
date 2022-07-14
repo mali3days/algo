@@ -32,3 +32,4 @@ Solved algorithms:
 29. RotateImage (https://leetcode.com/problems/rotate-image/) 48
 30. ReverseString
 31. MergeSortedArrays
+32. TwoSum (https://leetcode.com/problems/two-sum/submissions/) 1
