@@ -33,3 +33,4 @@ Solved algorithms:
 30. ReverseString
 31. MergeSortedArrays
 32. TwoSum (https://leetcode.com/problems/two-sum/submissions/) 1
+33. MaxSubArray (https://leetcode.com/problems/maximum-subarray/) 53 
