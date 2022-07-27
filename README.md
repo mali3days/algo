@@ -36,3 +36,4 @@ Solved algorithms:
 32. TwoSum (https://leetcode.com/problems/two-sum) 1
 33. MaxSubArray (https://leetcode.com/problems/maximum-subarray) 53
 34. MoveZeroes (https://leetcode.com/problems/move-zeroes) 283
+35. ContainsDuplicate (https://leetcode.com/problems/contains-duplicate) 217
