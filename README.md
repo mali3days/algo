@@ -37,3 +37,4 @@ Solved algorithms:
 33. MaxSubArray (https://leetcode.com/problems/maximum-subarray) 53
 34. MoveZeroes (https://leetcode.com/problems/move-zeroes) 283
 35. ContainsDuplicate (https://leetcode.com/problems/contains-duplicate) 217
+36. RotateArray (https://leetcode.com/problems/rotate-array) 189
