@@ -38,3 +38,4 @@ Solved algorithms:
 34. MoveZeroes (https://leetcode.com/problems/move-zeroes) 283
 35. ContainsDuplicate (https://leetcode.com/problems/contains-duplicate) 217
 36. RotateArray (https://leetcode.com/problems/rotate-array) 189
+37. BestTimeToBuyAndSellStock (https://leetcode.com/problems/best-time-to-buy-and-sell-stock) 121
