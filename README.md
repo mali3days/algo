@@ -39,3 +39,4 @@ Solved algorithms:
 35. ContainsDuplicate (https://leetcode.com/problems/contains-duplicate) 217
 36. RotateArray (https://leetcode.com/problems/rotate-array) 189
 37. BestTimeToBuyAndSellStock (https://leetcode.com/problems/best-time-to-buy-and-sell-stock) 121
+38. NumberOfIslands (https://leetcode.com/problems/number-of-islands) 200
