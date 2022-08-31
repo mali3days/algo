@@ -41,3 +41,4 @@ Solved algorithms:
 37. BestTimeToBuyAndSellStock (https://leetcode.com/problems/best-time-to-buy-and-sell-stock) 121
 38. NumberOfIslands (https://leetcode.com/problems/number-of-islands) 200
 39. MinimumPathSum (https://leetcode.com/problems/minimum-path-sum) 64 
+40. SpiralMatrix (https://leetcode.com/problems/spiral-matrix) 54
