@@ -42,3 +42,4 @@ Solved algorithms:
 38. NumberOfIslands (https://leetcode.com/problems/number-of-islands) 200
 39. MinimumPathSum (https://leetcode.com/problems/minimum-path-sum) 64 
 40. SpiralMatrix (https://leetcode.com/problems/spiral-matrix) 54
+41. RemoveKDigits (https://leetcode.com/problems/remove-k-digits) 402 // TODO: solve this later
