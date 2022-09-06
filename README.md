@@ -44,3 +44,4 @@ Solved algorithms:
 40. SpiralMatrix (https://leetcode.com/problems/spiral-matrix) 54
 41. RemoveKDigits (https://leetcode.com/problems/remove-k-digits) 402 // TODO: solve this later
 42. SortArrayOf012
+43. NextPermutation (https://leetcode.com/problems/next-permutation) 31
