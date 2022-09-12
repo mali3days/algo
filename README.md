@@ -46,3 +46,4 @@ Solved algorithms:
 42. SortArrayOf012
 43. NextPermutation (https://leetcode.com/problems/next-permutation) 31
 44. SurroundedRegions (https://leetcode.com/problems/surrounded-regions) 130
+45. MinimumSizeSubarraySum (https://leetcode.com/problems/minimum-size-subarray-sum) 209
