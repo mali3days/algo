@@ -47,3 +47,4 @@ Solved algorithms:
 43. NextPermutation (https://leetcode.com/problems/next-permutation) 31
 44. SurroundedRegions (https://leetcode.com/problems/surrounded-regions) 130
 45. MinimumSizeSubarraySum (https://leetcode.com/problems/minimum-size-subarray-sum) 209
+46. QueueUsingStacks (https://leetcode.com/problems/implement-queue-using-stacks) 232
