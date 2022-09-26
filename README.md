@@ -50,3 +50,4 @@ Solved algorithms:
 46. QueueUsingStacks (https://leetcode.com/problems/implement-queue-using-stacks) 232
 47. CourseSchedule2 (https://leetcode.com/problems/course-schedule-ii) 210
 48. SearchInRotatedSortedArray (https://leetcode.com/problems/search-in-rotated-sorted-array) 33
+49. SmallestArray (https://www.algoexpert.io/questions/smallest-difference)
