@@ -51,3 +51,4 @@ Solved algorithms:
 47. CourseSchedule2 (https://leetcode.com/problems/course-schedule-ii) 210
 48. SearchInRotatedSortedArray (https://leetcode.com/problems/search-in-rotated-sorted-array) 33
 49. SmallestArray (https://www.algoexpert.io/questions/smallest-difference)
+50. MoveElementToEnd (https://www.algoexpert.io/questions/move-element-to-end)
