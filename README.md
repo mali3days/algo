@@ -52,3 +52,4 @@ Solved algorithms:
 48. SearchInRotatedSortedArray (https://leetcode.com/problems/search-in-rotated-sorted-array) 33
 49. SmallestArray (https://www.algoexpert.io/questions/smallest-difference)
 50. MoveElementToEnd (https://www.algoexpert.io/questions/move-element-to-end)
+51. MonotonicArray (https://www.algoexpert.io/questions/monotonic-array)
