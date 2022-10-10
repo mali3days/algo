@@ -51,4 +51,60 @@ function spiralOrder(matrix) {
   return result;
 }
 
-spiralOrder(matrix); // => [1, 2, 3, 4, 8, 12, 16, 15, 14, 13, 9, 5, 6, 7, 11, 10]
+/**
+ * @param {number[][]} matrix
+ * @return {number[]}
+ */
+var spiralOrder2 = function (matrix) {
+  const DIRECTIONS = {
+    left_to_right: 0,
+    top_to_bottom: 1,
+    right_to_left: 2,
+    bottom_to_top: 3,
+  };
+
+  let m = matrix.length;
+  let n = matrix[0].length;
+
+  let left = 0;
+  let top = 0;
+  let right = n - 1;
+  let bottom = m - 1;
+
+  let direction = DIRECTIONS.left_to_right;
+
+  let result = [];
+
+  while (result.length < m * n) {
+    if (direction === DIRECTIONS.left_to_right) {
+      for (let i = left; i <= right; i++) {
+        result.push(matrix[top][i]);
+      }
+      direction = DIRECTIONS.top_to_bottom;
+      top++;
+    } else if (direction === DIRECTIONS.top_to_bottom) {
+      for (let i = top; i <= bottom; i++) {
+        result.push(matrix[i][right]);
+      }
+      direction = DIRECTIONS.right_to_left;
+      right--;
+    } else if (direction === DIRECTIONS.right_to_left) {
+      for (let i = right; i >= left; i--) {
+        result.push(matrix[bottom][i]);
+      }
+      direction = DIRECTIONS.bottom_to_top;
+      bottom--;
+    } else if (direction === DIRECTIONS.bottom_to_top) {
+      for (let i = bottom; i >= top; i--) {
+        result.push(matrix[i][left]);
+      }
+      direction = DIRECTIONS.left_to_right;
+      left++;
+    }
+  }
+
+  return result;
+};
+
+console.log(spiralOrder(matrix)); // => [1, 2, 3, 4, 8, 12, 16, 15, 14, 13, 9, 5, 6, 7, 11, 10]
+console.log(spiralOrder2(matrix)); // => [1, 2, 3, 4, 8, 12, 16, 15, 14, 13, 9, 5, 6, 7, 11, 10]
