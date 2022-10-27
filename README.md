@@ -55,3 +55,4 @@ Solved algorithms:
 51. MonotonicArray (https://www.algoexpert.io/questions/monotonic-array)
 52. LongestPeak (https://www.algoexpert.io/questions/longest-peak)
 53. ArrayOfProducts (https://www.algoexpert.io/questions/array-of-products)
+54. FirstDuplicateValue (https://www.algoexpert.io/questions/first-duplicate-value)
