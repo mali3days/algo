@@ -57,4 +57,5 @@ Solved algorithms:
 53. ArrayOfProducts (https://www.algoexpert.io/questions/array-of-products)
 54. FirstDuplicateValue (https://www.algoexpert.io/questions/first-duplicate-value)
 55. MergeOverlappingIntervals (https://www.algoexpert.io/questions/merge-overlapping-intervals)
-56. 
+56. BSTConstruction (https://www.algoexpert.io/questions/bst-construction)
+57. 
