@@ -58,4 +58,5 @@ Solved algorithms:
 54. FirstDuplicateValue (https://www.algoexpert.io/questions/first-duplicate-value)
 55. MergeOverlappingIntervals (https://www.algoexpert.io/questions/merge-overlapping-intervals)
 56. BSTConstruction (https://www.algoexpert.io/questions/bst-construction)
-57. 
+57. NumberOfWaysToMakeChange (https://www.algoexpert.io/questions/number-of-ways-to-make-change)
+58. 
