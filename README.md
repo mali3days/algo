@@ -60,4 +60,5 @@ Solved algorithms:
 56. BSTConstruction (https://www.algoexpert.io/questions/bst-construction)
 57. NumberOfWaysToMakeChange (https://www.algoexpert.io/questions/number-of-ways-to-make-change)
 58. MinimumNumberOfCoinsForChange (https://www.algoexpert.io/questions/min-number-of-coins-for-change)
-59. 
+59. LevenshteinDistance (https://www.algoexpert.io/questions/levenshtein-distance)
+60. 
